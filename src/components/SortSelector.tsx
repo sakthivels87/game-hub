@@ -1,5 +1,4 @@
 import { Button, Menu, MenuButton, MenuItem, MenuList } from "@chakra-ui/react";
-import React, { useState } from "react";
 import { BsChevronRight } from "react-icons/bs";
 
 interface Props {
