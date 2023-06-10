@@ -3,7 +3,6 @@ import GenreList from "../components/GenreList";
 import PlatformSelector from "../components/PlatformSelector";
 import SortSelector from "../components/SortSelector";
 import GameHeading from "../components/GameHeading";
-import useGameQueryStore from "../store/gameQuery";
 import { Box, Flex, Grid, GridItem, Show } from "@chakra-ui/react";
 const HomePage = () => {
   return (
