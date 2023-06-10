@@ -4,6 +4,7 @@ import PlatformSelector from "../components/PlatformSelector";
 import SortSelector from "../components/SortSelector";
 import GameHeading from "../components/GameHeading";
 import { Box, Flex, Grid, GridItem, Show } from "@chakra-ui/react";
+import "../index.css";
 const HomePage = () => {
   return (
     <Grid
